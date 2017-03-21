@@ -1,1 +1,1 @@
-Plunker: https://plnkr.co/edit/D3URhZ?p=info
+Plunker: https://plnkr.co/edit/D3URhZ?p=preview
